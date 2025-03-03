@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Aurelien
 
-🚀 **CRM Analyst | Administrator :
+🚀 **CRM Analyst | Administrator** :
 Passionate about transforming data into actionable insights using SQL, Python, Excel, and BI tools.
 
 ---
@@ -27,6 +27,8 @@ Clustering (K-Means, Hierarchical Clustering, PCA)
 ---
 
 ### 🎓 Professional Certifications I am preparing :
+
+Certification free until 15th May
 
 - **[Become An Oracle APEX Developer Professional]** 
 - **[Become an Oracle Fusion Cloud Applications CX Foundations Associate]**
