@@ -1,7 +1,7 @@
 # Site settings
 title: "Test"
 description: "Bookmark this to keep an eye on my project updates!"
-url: "https://github.com/AurelienGgt"    # Remplace par l'URL de ton site
+url: "https://aurelienggt.github.io/"    # Remplace par l'URL de ton site
 baseurl: ""                              # Laisse vide si ton site n'est pas dans un sous-dossier
 
 # Thème et configuration de base
@@ -40,7 +40,7 @@ plugins:
 seo:
   title: "Test"
   description: "Bookmark this to keep an eye on my project updates!"
-  url: "https://github.com/AurelienGgt"
+  url: "https://aurelienggt.github.io/"
 
 # Liens sociaux (peuvent être utilisés dans tes templates ou le footer)
 social:
