@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm [Your Name]
+## Hi there! 👋 I'm [Aurelien Ggt]
 
 🚀 **CRM Analyst - Administrator |  Analyst & ML Enthusiast**  
 📍 Passionate about Data Engineering, CRM Analytics, and Cloud Technologies.  
