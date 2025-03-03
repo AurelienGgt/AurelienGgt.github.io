@@ -1,3 +1,71 @@
+# Site settings
+title: "Test"
+description: "Bookmark this to keep an eye on my project updates!"
+url: "https://github.com/AurelienGgt"    # Remplace par l'URL de ton site
+baseurl: ""                              # Laisse vide si ton site n'est pas dans un sous-dossier
+
+# Thème et configuration de base
 theme: jekyll-theme-minimal
-title: Test
-description: Bookmark this to keep an eye on my project updates!
+markdown: kramdown
+permalink: pretty
+
+# Configuration de Kramdown (Markdown)
+kramdown:
+  input: GFM                   # Utilise la syntaxe GitHub Flavored Markdown
+  hard_wrap: false
+  syntax_highlighter: rouge    # Utilisation de Rouge pour la coloration syntaxique
+  syntax_highlighter_opts:
+    line_numbers: true         # Affichage des numéros de ligne pour le code
+
+# Collections et defaults
+collections:
+  posts:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Aurelien"
+
+# Plugins utiles pour le SEO et l'automatisation
+plugins:
+  - jekyll-feed       # Génère un flux RSS
+  - jekyll-seo-tag    # Optimisation SEO
+  - jekyll-sitemap    # Création automatique du sitemap
+
+# Paramètres SEO (utilisés par jekyll-seo-tag)
+seo:
+  title: "Test"
+  description: "Bookmark this to keep an eye on my project updates!"
+  url: "https://github.com/AurelienGgt"
+
+# Liens sociaux (peuvent être utilisés dans tes templates ou le footer)
+social:
+  github: "https://github.com/AurelienGgt"
+  linkedin: "X"
+
+# Paramètres de build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+  - _config.yml
+include:
+  - _pages              # Dossier pour ajouter des pages personnalisées
+
+# Options pour SASS/SCSS (si tu veux ajouter des styles personnalisés)
+sass:
+  style: compressed     # Compression du CSS pour de meilleures performances
+
+# Fuseau horaire
+timezone: "Europe/Sofia"
+
+# Variables personnalisées (pour une utilisation dans tes layouts et includes)
+custom:
+  author: "Aurelien"
+  email: "X"
