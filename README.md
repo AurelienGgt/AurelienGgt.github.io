@@ -17,7 +17,10 @@ Passionate about transforming data into actionable insights using SQL, Python, E
 ### 🏆 Featured Project :
 
 #### Customer Personality Analysis
-- **Description**: in progress
+- **Description**: A machine learning project analyzing customer behavior to optimize marketing strategies.
+Data Cleaning & Preprocessing (Pandas, NumPy)
+Exploratory Data Analysis (Matplotlib, Seaborn)
+Clustering (K-Means, Hierarchical Clustering, PCA)
 - **Technologies**: Python,...
 - **Dataset**: [Customer Personality Analysis on Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/code?datasetId=1546318&sortBy=voteCount)
 
