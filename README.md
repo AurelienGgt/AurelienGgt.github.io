@@ -23,6 +23,7 @@ Exploratory Data Analysis (Matplotlib, Seaborn)
 Clustering (K-Means, Hierarchical Clustering, PCA)
 - **Technologies**: Python,...
 - **Dataset**: [Customer Personality Analysis on Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/code?datasetId=1546318&sortBy=voteCount)
+- **Project Link**: [Customer Personality Analysis on Kaggle](https://github.com/AurelienGgt/Customer-Personality-Analysis)
 
 ---
 
@@ -52,7 +53,6 @@ Certification free until 15th May
 
 ### 📫 Connect with Me :
 
-🔗 [Portfolio](X)  
 💼 [LinkedIn](X)  
 📧 [Email](X)
 
